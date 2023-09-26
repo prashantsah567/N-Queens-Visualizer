@@ -3,5 +3,5 @@ This is a popular N-Queens Visualizer project using HTML, CSS, JavaScript, and b
 
 Here is a quick demo:
 
-![image](https://github.com/prashantsah567/N-Queens-Visualizer/assets/82275480/c5c31722-5135-4ec1-b9d9-a43a2be86653)
+![n-queen](https://github.com/prashantsah567/N-Queens-Visualizer/assets/82275480/d2637666-f1eb-45ec-9fa8-d3f1c0bd94b5)
 
